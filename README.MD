@@ -1,5 +1,5 @@
-This git repo with katas from codewars.com;
-Shorts discriptions:
+This git repo with katas from codewars.com;  
+Shorts discriptions:  
 
-StopGninnipSMySdroW!
-Reverse words in sentence with length > 5. 
+StopGninnipSMySdroW!  
+Reverse words in sentence with length > 5.  
